@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Transpose Chords</string>
+    <string name="action_settings">Settings</string>
+    <string name="tittle_new">New</string>
+    <string name="tittle_paste">Paste</string>
+    <string name="tittle_save">Save</string>
+    <string name="tittle_file">File</string>
+    <string name="tittle_save_as">Save as</string>
+    <string name="tittle_open">Open</string>
+    <string name="tittle_view">View</string>
+    <string name="tittle_edit">Edit</string>
+    <string name="tittle_original">Original\ntone</string>
+    <string name="more">+</string>
+    <string name="less">-</string>
+    <string name="hint">Enter chords here&#8230;</string>
+    <string name="example">\u0020\u0020\u0020\u0020\u0020\u0020Am\u0020\u0020\u0020\u0020C\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020D\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020F\nThere\u0020is\u0020a\u0020house\u0020in\u0020New\u0020Orleans,\n\u0020\u0020\u0020\u0020\u0020\u0020Am\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020C\u0020\u0020\u0020\u0020\u0020\u0020E7\nThey\u0020call\u0020the\u0020Rising\u0020Sun,\n\u0020\u0020\u0020\u0020\u0020\u0020Am\u0020\u0020\u0020\u0020\u0020\u0020\u0020C\u0020\u0020\u0020\u0020\u0020\u0020\u0020D\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020F\nIt\'s\u0020been\u0020the\u0020ruin\u0020of\u0020many\u0020a\u0020poor\u0020girl,\u0020(boys?)\n\u0020\u0020\u0020\u0020\u0020Am\u0020\u0020\u0020\u0020\u0020E\u0020\u0020\u0020\u0020\u0020\u0020\u0020\u0020Am\u0020\u0020\u0020\u0020E7\nAnd\u0020God,\u0020I\u0020know,\u0020I\'m\u0020one.\n\nMy\u0020mother\u0020was\u0020a\u0020tailor,\nShe\u0020sewed\u0020those\u0020new\u0020blue\u0020jeans,\nmy\u0020husbend\u0020he\'s\u0020a\u0020gambling\u0020man,\n(drinks)\u0020down\u0020in\u0020New\u0020Orleans.\n\nMy\u0020husbend\u0020in\u0020a\u0020gambler,\nHe\u0020goes\u0020from\u0020town\u0020to\u0020town,\nThe\u0020only\u0020time,\u0020he\'s\u0020satisfied,\u0020is\u0020when\nHe\u0020drinks\u0020his\u0020liquor\u0020down.\n\nOh,\u0020mother,\u0020tell\u0020your\u0020children\nNot\u0020to\u0020do\u0020what\u0020I\u0020have\u0020done\u0020-\nSpend\u0020your\u0020lives\u0020in\u0020sin\u0020and\u0020misery\nIn\u0020the\u0020House\u0020of\u0020Rising\u0020Sun\n\nOne\u0020foot\u0020on\u0020the\u0020platform,\nThe\u0020other\'s\u0020on\u0020the\u0020train,\nI\'m\u0020going\u0020back\u0020to\u0020New\u0020Orleans,\nto\u0020wear\u0020that\u0020ball\u0020and\u0020chain.\n\nGoing\u0020back\u0020to\u0020New\u0020Orleans,\nMy\u0020race\u0020is\u0020almost\u0020run,\nI\'m\u0020going\u0020to\u0020spend\u0020the\u0020rest\u0020of\u0020my\u0020life,\nBeneath\u0020that\u0020Rising\u0020Sun.</string>
+    <string name="tittle_halftone">Halftone</string>
+    <string name="tittle_actual">Actual</string>
+    <string name="tittle_original2">Original</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_fileexplorer">FileexplorerActivity</string>
+    <string name="newFile">New file</string>
+    <string name="save">Save</string>
+    <string name="saveAs">Save as&#8230;</string>
+    <string name="openFile">Open file&#8230;</string>
+    <string name="file">File</string>
+    <string name="file1">The file already exists</string>
+    <string name="file2">No such file</string>
+    <string name="file3">The file was created</string>
+    <string name="file4">The file has been saved</string>
+    <string name="file5">Please Enter The Data</string>
+    <string name="file6">Save as:</string>
+    <string name="nPaste">Nothing to Paste</string>
+    <string name="file7">Artist-Song</string>
+    <string name="file8">Select file:</string>
+    <string name="Cancel">Cancel</string>
+
+    <string-array name="colors_array">
+        <item>Standard-EADGBE</item>
+        <item>Drop D-DADGBE</item>
+        <item>Drop C-CGCFAD</item>
+        <item>Open D-DADDF#AD</item>
+        <item>Open G-DGDGBD</item>
+        <item>Open C-CGCGCE</item>
+        <item>Open E-EBEG#BE</item>
+        <item>Open Dsus2-DADGAD</item>
+    </string-array>
+
+</resources>
